@@ -9,5 +9,9 @@ public class test {
 	public void aa(){
 		System.out.println("aa");
 	}
+	
+	public void bb(){
+		
+	}
 
 }
